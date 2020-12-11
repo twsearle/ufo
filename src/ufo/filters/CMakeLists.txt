@@ -52,6 +52,8 @@ set ( filters_files
       ObsFilterData.h
       PreQC.cc
       PreQC.h
+      PracticalBoundsCheck.cc
+      PracticalBoundsCheck.h
       QCflags.h
       QCmanager.cc
       QCmanager.h
